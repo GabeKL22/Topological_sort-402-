@@ -3,7 +3,7 @@
 - This a program to perform the topological sort algorithm on a directed graph.
 - The files `graph1.dat`, `graph2.dat`, `graph3.dat` contain the `numVertices` and `numEdges` on the first line.. and then vertices to build the graph
 - i.e  
-14 10  
+14 10 (14 vertices, 10 edges)   
 1 3 (signifies an edge from vertex 1 to 3)  
 1 4 (signifies an edge from vertex 1 to 4)
 ## Runnning
